@@ -1,7 +1,9 @@
 # Memory Game
 
-This is a memory game built with React. It is a one player game where the user can try and match up card numbers. The game is able to track the game time as well as reset the game.
+This is a memory game built with React. It is a one player game where the user can try and match up card numbers. The game is able to track game time as well as reset the game.
 ![Screenshot](Screenshot.png)
+
+Check out the [game](https://melissaappolis.github.io/React-Memory-Game/) here
 
 ## Rules of the Game
 
